@@ -1,0 +1,11 @@
+C:\Users\csxsy\Desktop\Notification\Notification\bin\Debug\Notification.exe.config
+C:\Users\csxsy\Desktop\Notification\Notification\bin\Debug\Notification.exe
+C:\Users\csxsy\Desktop\Notification\Notification\bin\Debug\Notification.pdb
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.csproj.AssemblyReference.cache
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.Main.resources
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.Properties.Resources.resources
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.csproj.GenerateResource.cache
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.exe
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.pdb
+C:\Users\csxsy\Desktop\Notification\Notification\obj\Debug\Notification.Notify.resources
